@@ -1,0 +1,14 @@
+mode 0
+definition "x=((w*(8-11*cos(2*u*pi))*cos(2*u*pi)-8)*cos(-pi*v/8+pi/4));
+			y=w*(8-11*cos(2*u*pi))*sin(2*u*pi);
+			z=((w*(8-11*cos(2*u*pi))*cos(2*u*pi)-8)*sin(-pi*v/8+pi/4));"
+parameters 0 1 0 1 0 1
+resolution 100 100 100
+diffuseColor 0 1 0
+backgroundColor 0 0 0
+axesColor 0.45 0.1 0.55
+SpecularColor 0.4 0.1 0.3
+Transparency 0
+Shininess 1
+Timecycle 1
+Timerange 0 1

@@ -1,0 +1,14 @@
+mode 0
+definition "x=8*w*cos(-u*pi);
+			y=8*w*sin(-u*pi)*sin(v*pi);
+			z=8*w*sin(-u*pi)*cos(v*pi);"
+parameters 0 1 0 1 0 1
+resolution 30 30 30
+diffuseColor 0 1 0
+backgroundColor 0 0 0
+axesColor 0.45 0.1 0.55
+SpecularColor 0.4 0.1 0.3
+Transparency 0
+Shininess 1
+Timecycle 1
+Timerange 0 1

@@ -1,0 +1,14 @@
+mode 0
+definition "x=6*u+8;
+			y=6*w;
+			z=22*v+6;"
+parameters 0 1 0 1 0 1
+resolution 30 30 30
+diffuseColor 0 1 0
+backgroundColor 0 0 0
+axesColor 0.45 0.1 0.55
+SpecularColor 0.4 0.3 0.1
+Transparency 0
+Shininess 1
+Timecycle 1
+Timerange 0 1

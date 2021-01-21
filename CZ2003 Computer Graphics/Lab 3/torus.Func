@@ -1,0 +1,14 @@
+mode 0
+definition "x=(1.6*w*cos(pi*u)+8)*cos(2*pi*v);
+			y=1.6*w*sin(pi*u);
+			z=(1.6*w*cos(pi*u)+8)*sin(2*pi*v);"
+parameters 0 1 0 1 0 1
+resolution 80 80 80
+diffuseColor 0 1 0
+backgroundColor 0 0 0
+axesColor 0.45 0.1 0.55
+SpecularColor 0.4 0.1 0.3
+Transparency 0
+Shininess 1
+Timecycle 1
+Timerange 0 1

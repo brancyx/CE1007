@@ -1,0 +1,14 @@
+mode 0
+definition "x=20*u-8;
+			y=(22*w-8)+(sqrt(abs(20*u-8)));
+			z=-8+14*v;"
+parameters 0 1 0 1 0 1
+resolution 80 80 80
+diffuseColor 0 1 0
+backgroundColor 0 0 0
+axesColor 0.45 0.1 0.55
+SpecularColor 0.4 0.1 0.3
+Transparency 0
+Shininess 1
+Timecycle 1
+Timerange 0 1
